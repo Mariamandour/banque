@@ -1,0 +1,2 @@
+amadou bobo diallo:samba:123
+jerry thibaut:tom:456

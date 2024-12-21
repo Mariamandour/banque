@@ -1,0 +1,4 @@
+fatou faye:id:montant:date debut:1
+marie diouf:id:montant:date:2
+astou diop:id:montant:date:3
+modou sarr:id:montant:date:4
